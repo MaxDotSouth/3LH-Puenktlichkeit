@@ -1,0 +1,32 @@
+{
+  "Tag": "22.05.2019",
+  "Zuege": [
+    {
+      "Zugnummer": 160,
+      "Bahnhoefe": [
+        {
+          "Wien Hbf": 97.0,
+          "Zürich Hbf": 98.2
+        }
+      ]
+    },
+    {
+      "Zugnummer": 724,
+      "Bahnhoefe": [
+        {
+          "Zürich Hbf": 89.6,
+          "Bern Hbf": 90.2
+        }
+      ]
+    },
+    {
+      "Zugnummer": 15263,
+      "Bahnhoefe": [
+        {
+          "Bern Hbf": 96.8,
+          "Bern Wankdorf": 96.9
+        }
+      ]
+    }
+  ]
+}
