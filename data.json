@@ -2,11 +2,20 @@
   "Tag": "22.05.2019",
   "Zuege": [
     {
+      "Zugnummer": 29281,
+      "Bahnhoefe": [
+        {
+          "Wien Praterstern": 95.04,
+          "Wien Hbf": 99.99
+        }
+      ]
+    },
+    {
       "Zugnummer": 160,
       "Bahnhoefe": [
         {
           "Wien Hbf": 97.0,
-          "Zürich Hbf": 98.2
+          "Zürich Hbf": 91.7
         }
       ]
     },
